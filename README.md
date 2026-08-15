@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./captura1.png" width="800px" alt="Preview do projeto Conversor de Moedas">
+  <img src="./captura1.png" width="300px" alt="Preview do projeto Conversor de Moedas">
 </p>
 
 ## Sobre o projeto
@@ -62,13 +62,14 @@ Atualmente, o conversor possui suporte para:
 ### Conversor
 
 <p align="center">
-  <img src="./captura1.png" width="800px" alt="Interface do Conversor de Moedas">
+  <img src="./captura1.png" width="300px" alt="Interface do Conversor de Moedas">
 </p>
 
 ### Conversão
 
 <p align="center">
-  <img src="./captura2.png" width="800px" alt="Conversão realizada no projeto">
+  <img src="./captura2.png" width="300px" alt="Conversão realizada no projeto">
+  <img src="./captura3.png" width="800px" alt="Conversão realizada no projeto">
 </p>
 
 ## Como funciona
