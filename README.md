@@ -108,7 +108,7 @@ Projeto-conversor-de-moedas/
 Clone o repositório:
 
 ```bash id="8hpq5a"
-git clone https://github.com/lemueltimotio/Projeto-conversor-de-moedas.git
+git clone https://github.com/lemueltimotio/conversor-de-moedas.git
 ```
 
 Depois abra o arquivo `index.html` no navegador.
@@ -118,7 +118,7 @@ Depois abra o arquivo `index.html` no navegador.
 Após publicar o projeto utilizando o **GitHub Pages**, ele poderá ser acessado diretamente pelo navegador.
 
 ```text id="201jt6"
-https://lemueltimotio.github.io/Projeto-conversor-de-moedas/
+https://lemueltimotio.github.io/conversor-de-moedas/
 ```
 
 ## Autor
